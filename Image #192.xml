@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set 200 resized 1632.920</folder>
+	<filename>Image #192.jpg</filename>
+	<path>C:\Users\ba201\Desktop\Jupyter Notebooks\labelImg\set 200 resized 1632.920\Image #192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1632</width>
+		<height>920</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>signal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>329</ymin>
+			<xmax>452</xmax>
+			<ymax>805</ymax>
+		</bndbox>
+	</object>
+</annotation>
